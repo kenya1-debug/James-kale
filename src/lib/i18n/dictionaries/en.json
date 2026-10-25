@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "practice": "Practice Areas",
+    "insights": "Insights",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close menu",
+    "switchLang": "Kiswahili",
+    "switchLangLabel": "Switch to Kiswahili"
+  },
+  "cta": {
+    "book": "Book a Consultation",
+    "whatsapp": "Chat on WhatsApp",
+    "call": "Call us",
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "readArticle": "Read article",
+    "email": "Email us"
+  },
+  "hero": {
+    "eyebrow": "Advocates · Kabarnet, Baringo County",
+    "title": "Clear counsel. Careful representation.",
+    "subtitle": "Land, family, criminal, commercial and employment matters, handled with discretion for individuals, families and businesses across the Rift Valley."
+  },
+  "trust": {
+    "years": "Years in practice",
+    "matters": "Matters handled",
+    "areas": "Areas served",
+    "advocate": "Advocate of the High Court of Kenya"
+  },
+  "home": {
+    "practiceEyebrow": "Practice areas",
+    "practiceTitle": "Legal help where you need it",
+    "practiceIntro": "From land and succession to business and the courts, we give clear advice and decisive action.",
+    "aboutEyebrow": "The advocate",
+    "aboutTitle": "A trusted advocate in Kabarnet",
+    "aboutBody": "James Kale is an Advocate of the High Court of Kenya practising in Kabarnet, Baringo County. He helps individuals, families and businesses with clear advice, careful preparation and strict confidentiality.",
+    "aboutCta": "Meet the advocate",
+    "stepsEyebrow": "How it works",
+    "stepsTitle": "Three simple steps",
+    "steps": [
+      {
+        "title": "Book",
+        "text": "Choose a time online, by phone or on WhatsApp."
+      },
+      {
+        "title": "Consult",
+        "text": "Meet the advocate, explain your matter and get a clear plan."
+      },
+      {
+        "title": "Act",
+        "text": "We handle the paperwork, negotiations and court steps."
+      }
+    ],
+    "testimonialsEyebrow": "Client voices",
+    "testimonialsTitle": "What clients say",
+    "insightsEyebrow": "Insights",
+    "insightsTitle": "Legal guidance for Kenyans",
+    "insightsIntro": "Practical, plain-language articles on land, family, business and more.",
+    "faqEyebrow": "FAQ",
+    "faqTitle": "Common questions",
+    "ctaTitle": "Ready to talk it through?",
+    "ctaText": "Book a consultation and leave with clear next steps."
+  },
+  "practice": {
+    "eyebrow": "Practice areas",
+    "title": "How we can help",
+    "intro": "Choose an area to see how we work and the questions clients ask most.",
+    "how": "How we help",
+    "faq": "Common questions",
+    "other": "Other practice areas",
+    "ctaTitle": "Discuss your matter",
+    "ctaText": "Tell us what is happening and we will advise on the best way forward."
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "The advocate",
+    "credentials": "Credentials",
+    "qualifications": "Qualifications",
+    "admitted": "Admitted to the Bar",
+    "experience": "Years in practice",
+    "memberships": "Professional memberships",
+    "courts": "Courts of appearance",
+    "valuesTitle": "How we work",
+    "values": [
+      {
+        "title": "Clarity",
+        "text": "Plain language, honest advice and no surprises on process or cost."
+      },
+      {
+        "title": "Discretion",
+        "text": "Your matter stays confidential, always."
+      },
+      {
+        "title": "Diligence",
+        "text": "Careful preparation and follow-through on every file."
+      }
+    ],
+    "ctaTitle": "Let us hear your matter",
+    "ctaText": "Book a consultation to discuss how we can help."
+  },
+  "insights": {
+    "eyebrow": "Insights",
+    "title": "Legal guidance for Kenyans",
+    "intro": "Practical, plain-language articles on land, family, business and more.",
+    "all": "All",
+    "empty": "No articles yet. Please check back soon.",
+    "min": "min read",
+    "back": "All insights",
+    "share": "Share",
+    "notAdvice": "This article is general information, not legal advice. Speak to an advocate about your situation."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Visit or reach us",
+    "intro": "Call, message on WhatsApp or visit our office in Kabarnet.",
+    "office": "Office",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "hours": "Office hours",
+    "map": "Open in Google Maps",
+    "mapTitle": "Map showing our office in Kabarnet",
+    "notSet": "Available soon"
+  },
+  "book": {
+    "eyebrow": "Book",
+    "title": "Book a consultation",
+    "intro": "Tell us about your matter and choose a time that suits you.",
+    "fallback": "Online booking is being finalised. Meanwhile, please call or message us on WhatsApp."
+  },
+  "footer": {
+    "practice": "Practice areas",
+    "explore": "Explore",
+    "visit": "Visit us",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "disclaimer": "Disclaimer",
+    "note": "Information on this website is general and is not legal advice. Using it does not create an advocate-client relationship.",
+    "rights": "All rights reserved."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for does not exist or has moved.",
+    "home": "Back to home"
+  },
+  "form": {
+    "steps": [
+      "Practice area",
+      "Date & time",
+      "Your matter",
+      "Your details"
+    ],
+    "step": "Step",
+    "next": "Continue",
+    "back": "Back",
+    "submit": "Request consultation",
+    "submitting": "Sending…",
+    "areaTitle": "What do you need help with?",
+    "areaNotSure": "I’m not sure",
+    "areaNotSureHint": "We will help you work out the right area.",
+    "dateTitle": "Choose a date and time",
+    "dateLabel": "Preferred date",
+    "timeLabel": "Available times",
+    "pickDate": "Pick a date to see available times.",
+    "loadingSlots": "Checking availability…",
+    "noSlots": "No times are available on this date. Please try another day.",
+    "closed": "The office is closed on this day.",
+    "holiday": "The office is closed on this date.",
+    "past": "Please choose a future date.",
+    "tooFar": "Bookings can be made up to 60 days ahead.",
+    "invalid": "That date is not valid.",
+    "tz": "Times are in Kenya time (EAT).",
+    "matterTitle": "Briefly describe your matter",
+    "matterLabel": "What is happening?",
+    "matterHint": "A few sentences is enough. Please avoid highly sensitive details; we will discuss them in the consultation.",
+    "detailsTitle": "How can we reach you?",
+    "name": "Full name",
+    "phone": "Phone number",
+    "phoneHint": "We may call or message you on WhatsApp to confirm.",
+    "email": "Email (optional)",
+    "consent": "I agree that James Kale & Co. Advocates may use these details to respond to my request, as described in the Privacy Policy.",
+    "privacy": "Privacy Policy",
+    "summary": "Your request",
+    "area": "Practice area",
+    "when": "Date and time",
+    "notSure": "Not sure yet",
+    "successTitle": "Request received",
+    "successText": "Thank you. We will contact you to confirm your appointment, usually within one working day.",
+    "reference": "Reference",
+    "successUrgent": "If your matter is urgent, please call us.",
+    "backHome": "Back to home",
+    "contact": {
+      "title": "Send us a message",
+      "subject": "Subject (optional)",
+      "message": "Your message",
+      "send": "Send message",
+      "sending": "Sending…",
+      "successTitle": "Message sent",
+      "successText": "Thank you. We will reply as soon as we can.",
+      "methodHint": "Give a phone number or an email so we can reply."
+    },
+    "errors": {
+      "required": "This field is required.",
+      "name": "Please enter your full name.",
+      "phone": "Enter a valid phone number.",
+      "email": "Enter a valid email address.",
+      "description": "Please write at least 10 characters.",
+      "message": "Please write at least 10 characters.",
+      "subject": "The subject is too long.",
+      "date": "Choose a date.",
+      "time": "Choose a time.",
+      "consent": "Please tick to agree before sending.",
+      "contactMethod": "Please give a phone number or an email.",
+      "area": "Choose a practice area.",
+      "rate_limited": "Too many requests. Please wait a while and try again.",
+      "slot_taken": "Sorry, that time was just taken. Please choose another.",
+      "slot_invalid": "That time is no longer available. Please choose another.",
+      "captcha": "Verification failed. Please try again.",
+      "server": "Something went wrong. Please try again or call us."
+    },
+    "call": "Call us"
+  },
+  "cookie": {
+    "title": "Cookies and analytics",
+    "text": "With your permission we use privacy-friendly analytics to see how the site is used and improve it. Nothing optional runs unless you accept. Essential cookies for the staff login are always on.",
+    "accept": "Accept analytics",
+    "decline": "Decline",
+    "settings": "Cookie settings",
+    "privacy": "Privacy Policy"
+  }
+}

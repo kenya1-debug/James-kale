@@ -1,0 +1,235 @@
+{
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu Sisi",
+    "practice": "Huduma Zetu",
+    "insights": "Makala",
+    "contact": "Mawasiliano",
+    "menu": "Menyu",
+    "close": "Funga menyu",
+    "switchLang": "English",
+    "switchLangLabel": "Badilisha kuwa Kiingereza"
+  },
+  "cta": {
+    "book": "Weka Miadi ya Ushauri",
+    "whatsapp": "Wasiliana kupitia WhatsApp",
+    "call": "Tupigie simu",
+    "learnMore": "Soma zaidi",
+    "viewAll": "Tazama zote",
+    "readArticle": "Soma makala",
+    "email": "Tutumie barua pepe"
+  },
+  "hero": {
+    "eyebrow": "Mawakili · Kabarnet, Kaunti ya Baringo",
+    "title": "Ushauri wazi. Uwakilishi makini.",
+    "subtitle": "Masuala ya ardhi, familia, jinai, biashara na ajira, yanayoshughulikiwa kwa busara kwa watu binafsi, familia na biashara katika Bonde la Ufa."
+  },
+  "trust": {
+    "years": "Miaka ya kazi",
+    "matters": "Kesi zilizoshughulikiwa",
+    "areas": "Maeneo tunayohudumia",
+    "advocate": "Wakili wa Mahakama Kuu ya Kenya"
+  },
+  "home": {
+    "practiceEyebrow": "Huduma zetu",
+    "practiceTitle": "Msaada wa kisheria mahali unapouhitaji",
+    "practiceIntro": "Kuanzia ardhi na mirathi hadi biashara na mahakama, tunatoa ushauri wazi na hatua madhubuti.",
+    "aboutEyebrow": "Wakili",
+    "aboutTitle": "Wakili unayeweza kumwamini mjini Kabarnet",
+    "aboutBody": "James Kale ni Wakili wa Mahakama Kuu ya Kenya anayefanya kazi mjini Kabarnet, Kaunti ya Baringo. Anawasaidia watu binafsi, familia na biashara kwa ushauri wazi, maandalizi makini na usiri kamili.",
+    "aboutCta": "Mfahamu wakili",
+    "stepsEyebrow": "Jinsi inavyofanya kazi",
+    "stepsTitle": "Hatua tatu rahisi",
+    "steps": [
+      {
+        "title": "Weka miadi",
+        "text": "Chagua muda mtandaoni, kwa simu au kupitia WhatsApp."
+      },
+      {
+        "title": "Shauriana",
+        "text": "Kutana na wakili, eleza suala lako na upate mpango wazi."
+      },
+      {
+        "title": "Chukua hatua",
+        "text": "Tunashughulikia nyaraka, mazungumzo na hatua za mahakama."
+      }
+    ],
+    "testimonialsEyebrow": "Sauti za wateja",
+    "testimonialsTitle": "Wateja wanasema nini",
+    "insightsEyebrow": "Makala",
+    "insightsTitle": "Mwongozo wa kisheria kwa Wakenya",
+    "insightsIntro": "Makala rahisi na ya vitendo kuhusu ardhi, familia, biashara na zaidi.",
+    "faqEyebrow": "Maswali",
+    "faqTitle": "Maswali ya kawaida",
+    "ctaTitle": "Uko tayari kulijadili suala lako?",
+    "ctaText": "Weka miadi ya ushauri na uondoke ukiwa na hatua wazi za kuchukua."
+  },
+  "practice": {
+    "eyebrow": "Huduma zetu",
+    "title": "Jinsi tunavyoweza kukusaidia",
+    "intro": "Chagua eneo uone jinsi tunavyofanya kazi na maswali wanayouliza wateja mara nyingi.",
+    "how": "Jinsi tunavyosaidia",
+    "faq": "Maswali ya kawaida",
+    "other": "Huduma nyingine",
+    "ctaTitle": "Jadili suala lako",
+    "ctaText": "Tueleze kinachoendelea nasi tutakushauri njia bora ya kusonga mbele."
+  },
+  "about": {
+    "eyebrow": "Kuhusu",
+    "title": "Wakili",
+    "credentials": "Sifa",
+    "qualifications": "Elimu na sifa",
+    "admitted": "Alisajiliwa kuwa wakili",
+    "experience": "Miaka ya kazi",
+    "memberships": "Uanachama wa kitaaluma",
+    "courts": "Mahakama tunazowakilisha",
+    "valuesTitle": "Jinsi tunavyofanya kazi",
+    "values": [
+      {
+        "title": "Uwazi",
+        "text": "Lugha rahisi, ushauri wa kweli na hakuna mshangao kuhusu mchakato au gharama."
+      },
+      {
+        "title": "Usiri",
+        "text": "Suala lako hubaki siri, daima."
+      },
+      {
+        "title": "Bidii",
+        "text": "Maandalizi makini na ufuatiliaji wa kila faili."
+      }
+    ],
+    "ctaTitle": "Tusikie suala lako",
+    "ctaText": "Weka miadi ya ushauri tujadili jinsi tunavyoweza kusaidia."
+  },
+  "insights": {
+    "eyebrow": "Makala",
+    "title": "Mwongozo wa kisheria kwa Wakenya",
+    "intro": "Makala rahisi na ya vitendo kuhusu ardhi, familia, biashara na zaidi.",
+    "all": "Zote",
+    "empty": "Hakuna makala bado. Tafadhali tembelea tena hivi karibuni.",
+    "min": "dakika za kusoma",
+    "back": "Makala zote",
+    "share": "Shiriki",
+    "notAdvice": "Makala hii ni maelezo ya jumla, si ushauri wa kisheria. Zungumza na wakili kuhusu hali yako."
+  },
+  "contact": {
+    "eyebrow": "Mawasiliano",
+    "title": "Tutembelee au tuwasiliane",
+    "intro": "Piga simu, tuma ujumbe kupitia WhatsApp au tembelea ofisi yetu mjini Kabarnet.",
+    "office": "Ofisi",
+    "phone": "Simu",
+    "whatsapp": "WhatsApp",
+    "email": "Barua pepe",
+    "hours": "Saa za kazi",
+    "map": "Fungua kwenye Ramani za Google",
+    "mapTitle": "Ramani inayoonyesha ofisi yetu mjini Kabarnet",
+    "notSet": "Inakuja hivi karibuni"
+  },
+  "book": {
+    "eyebrow": "Weka miadi",
+    "title": "Weka miadi ya ushauri",
+    "intro": "Tueleze kuhusu suala lako na uchague muda unaokufaa.",
+    "fallback": "Huduma ya kuweka miadi mtandaoni inakamilishwa. Kwa sasa, tafadhali tupigie simu au tutumie ujumbe kupitia WhatsApp."
+  },
+  "footer": {
+    "practice": "Huduma",
+    "explore": "Gundua",
+    "visit": "Tutembelee",
+    "legal": "Kisheria",
+    "privacy": "Sera ya Faragha",
+    "terms": "Masharti ya Matumizi",
+    "disclaimer": "Kanusho",
+    "note": "Taarifa kwenye tovuti hii ni za jumla na si ushauri wa kisheria. Kuitumia hakuanzishi uhusiano wa wakili na mteja.",
+    "rights": "Haki zote zimehifadhiwa."
+  },
+  "notFound": {
+    "title": "Ukurasa haupatikani",
+    "text": "Ukurasa unaoutafuta haupo au umehamishwa.",
+    "home": "Rudi nyumbani"
+  },
+  "form": {
+    "steps": [
+      "Huduma",
+      "Tarehe na saa",
+      "Suala lako",
+      "Taarifa zako"
+    ],
+    "step": "Hatua",
+    "next": "Endelea",
+    "back": "Rudi",
+    "submit": "Tuma ombi la ushauri",
+    "submitting": "Inatuma…",
+    "areaTitle": "Unahitaji msaada wa aina gani?",
+    "areaNotSure": "Sina uhakika",
+    "areaNotSureHint": "Tutakusaidia kubaini eneo sahihi.",
+    "dateTitle": "Chagua tarehe na saa",
+    "dateLabel": "Tarehe unayopendelea",
+    "timeLabel": "Saa zinazopatikana",
+    "pickDate": "Chagua tarehe uone saa zinazopatikana.",
+    "loadingSlots": "Inakagua upatikanaji…",
+    "noSlots": "Hakuna saa zinazopatikana siku hii. Tafadhali jaribu siku nyingine.",
+    "closed": "Ofisi imefungwa siku hii.",
+    "holiday": "Ofisi imefungwa tarehe hii.",
+    "past": "Tafadhali chagua tarehe ijayo.",
+    "tooFar": "Miadi inaweza kuwekwa hadi siku 60 mbele.",
+    "invalid": "Tarehe hiyo si sahihi.",
+    "tz": "Saa ni za Kenya (EAT).",
+    "matterTitle": "Eleza kwa ufupi suala lako",
+    "matterLabel": "Nini kinaendelea?",
+    "matterHint": "Sentensi chache zinatosha. Tafadhali epuka maelezo nyeti sana; tutayajadili kwenye ushauri.",
+    "detailsTitle": "Tunawezaje kukufikia?",
+    "name": "Jina kamili",
+    "phone": "Namba ya simu",
+    "phoneHint": "Tunaweza kukupigia simu au kukutumia ujumbe wa WhatsApp kuthibitisha.",
+    "email": "Barua pepe (si lazima)",
+    "consent": "Ninakubali kwamba James Kale & Co. Advocates watumie taarifa hizi kujibu ombi langu, kama ilivyoelezwa kwenye Sera ya Faragha.",
+    "privacy": "Sera ya Faragha",
+    "summary": "Ombi lako",
+    "area": "Huduma",
+    "when": "Tarehe na saa",
+    "notSure": "Sina uhakika bado",
+    "successTitle": "Ombi limepokelewa",
+    "successText": "Asante. Tutawasiliana nawe kuthibitisha miadi yako, kwa kawaida ndani ya siku moja ya kazi.",
+    "reference": "Namba ya rejea",
+    "successUrgent": "Kama suala lako ni la dharura, tafadhali tupigie simu.",
+    "backHome": "Rudi nyumbani",
+    "contact": {
+      "title": "Tutumie ujumbe",
+      "subject": "Mada (si lazima)",
+      "message": "Ujumbe wako",
+      "send": "Tuma ujumbe",
+      "sending": "Inatuma…",
+      "successTitle": "Ujumbe umetumwa",
+      "successText": "Asante. Tutajibu mapema iwezekanavyo.",
+      "methodHint": "Toa namba ya simu au barua pepe ili tuweze kukujibu."
+    },
+    "errors": {
+      "required": "Sehemu hii inahitajika.",
+      "name": "Tafadhali weka jina lako kamili.",
+      "phone": "Weka namba ya simu sahihi.",
+      "email": "Weka barua pepe sahihi.",
+      "description": "Tafadhali andika angalau herufi 10.",
+      "message": "Tafadhali andika angalau herufi 10.",
+      "subject": "Mada ni ndefu mno.",
+      "date": "Chagua tarehe.",
+      "time": "Chagua saa.",
+      "consent": "Tafadhali weka alama kukubali kabla ya kutuma.",
+      "contactMethod": "Tafadhali weka namba ya simu au barua pepe.",
+      "area": "Chagua huduma.",
+      "rate_limited": "Maombi mengi mno. Tafadhali subiri kidogo kisha ujaribu tena.",
+      "slot_taken": "Samahani, saa hiyo imechukuliwa. Tafadhali chagua nyingine.",
+      "slot_invalid": "Saa hiyo haipatikani tena. Tafadhali chagua nyingine.",
+      "captcha": "Uthibitisho umeshindwa. Tafadhali jaribu tena.",
+      "server": "Hitilafu imetokea. Tafadhali jaribu tena au tupigie simu."
+    },
+    "call": "Piga simu"
+  },
+  "cookie": {
+    "title": "Vidakuzi na takwimu",
+    "text": "Kwa ruhusa yako tunatumia takwimu zinazoheshimu faragha kuona jinsi tovuti inavyotumika na kuiboresha. Hakuna cha hiari kinachofanya kazi usipokubali. Vidakuzi muhimu vya kuingia kwa wafanyakazi huwa vimewashwa kila wakati.",
+    "accept": "Kubali takwimu",
+    "decline": "Kataa",
+    "settings": "Mipangilio ya vidakuzi",
+    "privacy": "Sera ya Faragha"
+  }
+}

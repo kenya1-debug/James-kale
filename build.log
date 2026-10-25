@@ -1,0 +1,91 @@
+
+> kale-advocates@0.1.0 build
+> next build
+
+▲ Next.js 16.4.3 (Turbopack)
+- Environments: .env.local
+✓ Running next.config.ts took 420ms
+- Experiments (use with caution):
+  · cpus: 2
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 29.4s
+  Running TypeScript ...
+  Finished TypeScript in 25.4s ...
+  Collecting page data using 2 workers ...
+  Generating static pages using 2 workers (0/56) ...
+  Generating static pages using 2 workers (14/56) 
+  Generating static pages using 2 workers (28/56) 
+  Generating static pages using 2 workers (42/56) 
+✓ Generating static pages using 2 workers (56/56) in 18.9s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /_not-found
+├   /[locale]
+│ ├ ● /en
+│ └ ● /sw
+├   /[locale]/about
+│ ├ ● /en/about
+│ └ ● /sw/about
+├   /[locale]/book-a-consultation
+│ ├ ● /en/book-a-consultation
+│ └ ● /sw/book-a-consultation
+├   /[locale]/contact
+│ ├ ● /en/contact
+│ └ ● /sw/contact
+├   /[locale]/disclaimer
+│ ├ ● /en/disclaimer
+│ └ ● /sw/disclaimer
+├   /[locale]/insights
+│ ├ ● /en/insights
+│ └ ● /sw/insights
+├   /[locale]/insights/[slug]
+│ ├ ● /en/insights/checks-before-buying-land-in-kenya
+│ ├ ● /en/insights/why-write-a-will
+│ ├ ● /sw/insights/checks-before-buying-land-in-kenya
+│ └ ● /sw/insights/why-write-a-will
+├   /[locale]/insights/category/[slug]
+│ ├ ● /en/insights/category/business
+│ ├ ● /en/insights/category/family-succession
+│ ├ ● /en/insights/category/land
+│ └ ● [+3 more paths]
+├   /[locale]/practice-areas
+│ ├ ● /en/practice-areas
+│ └ ● /sw/practice-areas
+├   /[locale]/practice-areas/[slug]
+│ ├ ● /en/practice-areas/conveyancing-land-law
+│ ├ ● /en/practice-areas/family-succession
+│ ├ ● /en/practice-areas/criminal-defence
+│ └ ● [+9 more paths]
+├   /[locale]/privacy
+│ ├ ● /en/privacy
+│ └ ● /sw/privacy
+├   /[locale]/terms
+│ ├ ● /en/terms
+│ └ ● /sw/terms
+├ ƒ /admin
+├ ƒ /admin/availability
+├ ƒ /admin/consultations
+├ ƒ /admin/consultations/[id]
+├ ƒ /admin/consultations/export
+├ ƒ /admin/content/faqs
+├ ƒ /admin/content/practice-areas
+├ ƒ /admin/content/testimonials
+├ ƒ /admin/login
+├ ƒ /admin/messages
+├ ƒ /admin/messages/[id]
+├ ƒ /admin/messages/export
+├ ƒ /admin/posts
+├ ƒ /admin/posts/[id]
+├ ƒ /admin/posts/new
+├ ƒ /admin/settings
+└ ƒ /admin/team
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+
